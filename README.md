@@ -3,7 +3,7 @@
 - Веб-разработчик (с 2012 года)  
 - Работаю ВКонтакте (с 2018 года)  
 ### ✨ Увлечения и навыки ###
-Делаю сервисы, ботов, расширения, [пользовательские скрипты](https://openuserjs.org/users/flyink13), [рисую, фотографирую](https://www.instagram.com/flyink13/) и иногда выступаю. Когда-то [тестировал](https://vk.com/bugtracker?act=reporter&id=61351294) и [искал уязвимости](https://hackerone.com/flyink).
+Делаю сервисы, ботов, расширения, [пользовательские скрипты](https://openuserjs.org/users/flyink13), [рисую, фотографирую](https://www.instagram.com/flyink13/) и иногда выступаю. Когда-то [тестировал](https://vk.com/bugtracker?act=reporter&id=61351294) и [искал уязвимости](https://hackerone.com/flyink).  
 | | | | |
 | :----: | :----: | :----: | :----: |
 | | [Flyink](https://vk.com/flyink) | [Callback API Бот](https://vk.com/cbbot) | |
