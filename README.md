@@ -38,7 +38,7 @@
   - [Расширение «Распознавание голосовых сообщений ВКонтакте»](https://vk.cc/9VRwMa)
   - [Расширение «Отправить фото ВКонтакте»](https://github.com/FlyInk13/img2vk)
   - [Расширение «FlyVK for new.vk.com»](https://vk.com/flyvk)
-  - [Расширение «FlyInk Custom New Tab | Start Page»](https://vk.cc/9VRwJH)
+  - [Расширение «FlyInk Custom New Tab»](https://vk.cc/9VRwJH)
 - Ранее
   - Работа: Матрос-моторист 
   - Проекты совместно с [LiveCover](http://vk.com/livecoverstudio): Comedy Club, СТС, Телеканал ПЯТНИЦА!, Телеканал 2х2, Платежная карта "Мир", Tele2 Россия.
