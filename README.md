@@ -4,11 +4,12 @@
 - Работаю ВКонтакте (с 2018 года)  
 ### ✨ Увлечения и навыки ###
 Делаю сервисы, ботов, расширения, [пользовательские скрипты](https://openuserjs.org/users/flyink13), [рисую, фотографирую](https://www.instagram.com/flyink13/) и иногда выступаю. Когда-то [тестировал](https://vk.com/bugtracker?act=reporter&id=61351294) и [искал уязвимости](https://hackerone.com/flyink).  
-| | | | |
-| :----: | :----: | :----: | :----: |
-| | [Flyink](https://vk.com/flyink) | [Callback API Бот](https://vk.com/cbbot) | |
-| | ~~[toGraffiti](https://vk.com/toGraffiti)~~ | [LiveWidget](https://vk.com/LiveWidget) | |
-| | | | |
+
+### 🔥 Топ проектов ###
+- [Flyink](https://vk.com/flyink) - Личная группа
+- ~~[toGraffiti](https://vk.com/toGraffiti)~~ - 430к установок (ВКонтакте прикрыли Граффити)
+- [Callback API Бот](https://vk.com/cbbot) - 150к пользователей
+- [LiveWidget](https://vk.com/LiveWidget) - 110к сообществ
 
 ### ⚓️ Где меня найти ###
 Санкт-Петербург, [ВКонтакте](https://vk.com/eee), [Telegram](https://t.me/flyink), [GitHub](https://github.com/FlyInk13/), [Zenly](https://zen.ly/flyink), [Instagram](https://www.instagram.com/flyink13/), [Twitter](https://twitter.com/flyink13), dev@ifx.su.
