@@ -8,9 +8,13 @@
 
 ## 🔥 Топ проектов
 - [Flyink](https://vk.com/flyink) - Личная группа
-- ~~[toGraffiti](https://vk.com/toGraffiti)~~ - 480к установок (ВКонтакте прикрыли Граффити)
-- [Callback API Бот](https://vk.com/cbbot) - 150к пользователей
-- [LiveWidget](https://vk.com/LiveWidget) - 110к сообществ
+- [Callback API Бот](https://vk.com/cbbot) - 155к пользователей
+- [LiveWidget](https://vk.com/LiveWidget) - 189к сообществ
+- [Сниппеты историй](https://vk.com/story_link) - 1к пользователей
+
+## ☠️ Топ похороненных проектов
+- [toGraffiti](https://vk.com/toGraffiti) - 490к установок (ВКонтакте прикрыли Граффити)
+- [FlyVK](https://vk.com/toGraffiti) - 176к установок (ВКонтакте стал минифицироавть код)
 
 ## ⚓️ Где меня найти
 Санкт-Петербург, [ВКонтакте](https://vk.com/eee), [Telegram](https://t.me/flyink), [GitHub](https://github.com/FlyInk13/), [Zenly](https://zen.ly/flyink), [Instagram](https://www.instagram.com/flyink13/), [Twitter](https://twitter.com/flyink13), dev@ifx.su.
