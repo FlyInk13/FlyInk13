@@ -14,7 +14,7 @@
 
 ## ☠️ Топ похороненных проектов
 - [toGraffiti](https://vk.com/toGraffiti) - 490к установок (ВКонтакте прикрыли Граффити)
-- [FlyVK](https://vk.com/FlyVK) - 176к установок (ВКонтакте стал минифицироавть код)
+- [FlyVK](https://vk.com/club115918457) - 176к установок (ВКонтакте стал минифицироавть код)
 
 ## ⚓️ Где меня найти
 Санкт-Петербург, [ВКонтакте](https://vk.com/eee), [Telegram](https://t.me/flyink), [GitHub](https://github.com/FlyInk13/), [Zenly](https://zen.ly/flyink), [Instagram](https://www.instagram.com/flyink13/), [Twitter](https://twitter.com/flyink13), dev@ifx.su.
@@ -46,7 +46,7 @@
   - [«Callback API Бот»](https://vk.com/cbbot)
   - [Расширение «Распознавание голосовых сообщений ВКонтакте»](https://vk.cc/9VRwMa)
   - [Расширение «Отправить фото ВКонтакте»](https://github.com/FlyInk13/img2vk)
-  - [Расширение «FlyVK for new.vk.com»](https://vk.com/flyvk)
+  - [Расширение «FlyVK for new.vk.com»](https://vk.com/club115918457)
   - [Расширение «FlyInk Custom New Tab»](https://vk.cc/9VRwJH)
 - Ранее
   - Работа: Матрос-моторист 
