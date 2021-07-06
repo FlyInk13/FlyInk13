@@ -8,16 +8,16 @@
 
 ## 🔥 Топ проектов
 - [Flyink](https://vk.com/flyink) - Личная группа
-- [Callback API Бот](https://vk.com/cbbot) - 155к пользователей
-- [LiveWidget](https://vk.com/LiveWidget) - 189к сообществ
-- [Сниппеты историй](https://vk.com/story_link) - 1к пользователей
+- [Callback API Бот](https://vk.com/cbbot) - 160к пользователей
+- [LiveWidget](https://vk.com/LiveWidget) - 338к сообществ
+- [Сниппеты историй](https://vk.com/story_link) - 25к пользователей
 
 ## ☠️ Топ похороненных проектов
 - [toGraffiti](https://vk.com/toGraffiti) - 490к установок (ВКонтакте прикрыли Граффити)
 - [FlyVK](https://vk.com/club115918457) - 176к установок (ВКонтакте стал минифицироавть код)
 
 ## ⚓️ Где меня найти
-Санкт-Петербург, [ВКонтакте](https://vk.com/eee), [Telegram](https://t.me/flyink), [GitHub](https://github.com/FlyInk13/), [Zenly](https://zen.ly/flyink), [Instagram](https://www.instagram.com/flyink13/), [Twitter](https://twitter.com/flyink13), dev@ifx.su.
+Санкт-Петербург, [ВКонтакте](https://vk.com/eee), [Telegram](https://t.me/flyink), [GitHub](https://github.com/FlyInk13/), [Zenly](https://zen.ly/flyink), [Instagram](https://www.instagram.com/flyink13/), [Twitter](https://twitter.com/flyink13), [Linkedin](https://www.linkedin.com/in/flyink/), dev@ifx.su.
 
 ## 🛠 Мое вооружение
 Руки, голова, JavaScript, PHP, MacOS, Git, Nginx, ~~MySQL~~, MongoDB, Node.JS.
