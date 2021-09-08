@@ -6,7 +6,7 @@
 - Работаю ВКонтакте (с 2018 года)  
 
 ## ✨ Увлечения и навыки
-Делаю сервисы, ботов, расширения, [пользовательские скрипты](https://openuserjs.org/users/flyink13), [рисую](https://vk.com/flyink13), [фотографирую](https://www.instagram.com/flyink13/) и иногда выступаю. Когда-то [тестировал](https://vk.com/bugtracker?act=reporter&id=61351294) и [искал уязвимости](https://hackerone.com/flyink).  
+Делаю сервисы, ботов, расширения, [пользовательские скрипты](https://openuserjs.org/users/flyink13), [рисую](https://vk.com/flyink13), [фотографирую](https://www.instagram.com/flyink13/) и иногда выступаю. Когда-то [тестировал](https://vk.com/bugtracker?act=reporter&id=61351294) и [искал уязвимости](https://hackerone.com/flyink) 
 
 ## 🔥 Топ проектов
 - [Flyink](https://vk.com/flyink) — Личная группа
@@ -19,7 +19,7 @@
 - [FlyVK](https://vk.com/club115918457) — 176 тысяч установок (ВКонтакте стал минифицировать код)
 
 ## ⚓️ Где меня найти
-Санкт-Петербург, [ВКонтакте](https://vk.com/eee), [Telegram](https://t.me/flyink), [GitHub](https://github.com/FlyInk13/), [Zenly](https://zen.ly/flyink), [Instagram](https://www.instagram.com/flyink13/), [Twitter](https://twitter.com/flyink13), [LinkedIn](https://www.linkedin.com/in/flyink/), dev@ifx.su.
+Санкт-Петербург, [ВКонтакте](https://vk.com/eee), [Telegram](https://t.me/flyink), [GitHub](https://github.com/FlyInk13/), [Zenly](https://zen.ly/flyink), [Instagram](https://www.instagram.com/flyink13/), [Twitter](https://twitter.com/flyink13), [LinkedIn](https://www.linkedin.com/in/flyink/), dev@ifx.su  
 
 ## 🛠 Моё вооружение
 Руки, голова, JavaScript, PHP, MacOS, Git, Nginx, MySQL, MongoDB, Node.JS
